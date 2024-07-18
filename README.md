@@ -1,4 +1,4 @@
-ESERCITAZIONE 06: MODELLO DI ISING 1D.
+ESERCITAZIONE 06: MODELLO DI ISING 1D
 
 Per la cartella Esercizio_06 valgono le seguenti istruzioni per:
 
